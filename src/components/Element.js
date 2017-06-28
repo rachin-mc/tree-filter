@@ -3,6 +3,8 @@ import PropTypes from 'prop-types';
 import {connect} from 'react-redux';
 import {filter} from '../actions/index';
 
+//comment
+
 class Element extends React.Component {
   render () {
     return (
